@@ -12,6 +12,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MuaamalRafid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+[![wakatime](https://wakatime.com/badge/user/76d45ec6-412d-4ce5-88b4-847ca8231a9f/project/1f72df4a-fb38-407e-8706-000646afd931.svg)](https://wakatime.com/badge/user/76d45ec6-412d-4ce5-88b4-847ca8231a9f/project/1f72df4a-fb38-407e-8706-000646afd931)
+
 [![Status for @MuaamalRafid](https://badge.stateful.com/MuaamalRafid/status.svg)](https://app.stateful.com/@MuaamalRafid)
 
 [![Status for @MuaamalRafid](https://badge.stateful.com/MuaamalRafid/dnd.svg)](https://app.stateful.com/@MuaamalRafid)
